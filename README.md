@@ -6,3 +6,4 @@
 - Create [next_js file](nextjs_prac) Nov-01-25
   - sample_react_app
   - sample_next_app
+- Create JS_Standard Nov-13-25
