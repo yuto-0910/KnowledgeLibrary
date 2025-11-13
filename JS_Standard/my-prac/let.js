@@ -15,3 +15,9 @@ if(x===12 && msg === "good!"){
 console.log("false");
 }
 
+// 配列を使う
+let list =['react','vue','angular'];
+console.log(list[0]);
+list[0]='JavaScript';
+console.log(list[0]);
+
