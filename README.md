@@ -7,3 +7,4 @@
   - sample_react_app
   - sample_next_app
 - Create JS_Standard Nov-13-25
+- Create template.js and allow.js
