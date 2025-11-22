@@ -18,3 +18,10 @@ console.log(value);
 // アロー関数
 // (arg,..)=>{statements}
 // arg : 引数, statements : 関数の本体
+function circle(radius) {
+  return (radius ** 2)*Math.PI;
+}
+
+const circle = (radius) => {
+  return radius ** 2 * Math.PI;
+}
